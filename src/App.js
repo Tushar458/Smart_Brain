@@ -143,8 +143,8 @@ class App extends Component {
       <div className="App">
         <ParticlesBg color="#FFFFFF" num={100} type="cobweb" bg={true} />
         <Navigation
-          isSignedIn={isSignedIn}
-          onRouteChange={this.onRouteChange}
+          isSignedIn={isSignedIn}s
+          onRouteChange={this.onRouteChange} 
         />
         {route === "home" ? (
           <>
