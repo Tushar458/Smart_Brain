@@ -26,7 +26,7 @@ Throughout this project, I have demonstrated my resilience, adaptability, and re
 
 ### Website Deployed
 
-You can find the project website here: [Live Site](https://tjrelly.github.io/smart-brain/). Try the demo account.
+You can find the project website here: [Live Site](https://tushar458.github.io/Smart_Brain/) Try the demo account.
 
 ---
 ### Screenshots
