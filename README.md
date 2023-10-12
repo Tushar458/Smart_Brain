@@ -43,5 +43,5 @@ You can find the project website here: [Live Site](https://tjrelly.github.io/sma
 
 ### Website Deployed
 
-You can find the project website here: [Live Site]((https://tushar458.github.io/Smart_Brain/)https://tushar458.github.io/Smart_Brain/)
+You can find the project website here: [Live Site](https://tushar458.github.io/Smart_Brain/)
 
