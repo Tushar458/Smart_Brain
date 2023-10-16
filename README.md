@@ -20,10 +20,11 @@ Visit the Live site: https://tushar458.github.io/Smart_Brain/
 - Redesign incorporating Tailwind inspired by [Markelca](https://github.com/MarkelCA/smart-brain)
 
 ### Challenges: 
-During the course of this project, I encountered and successfully addressed significant challenges that arose from utilizing deprecated components and adapting to updated API documentation. I took the initiative to rectify the deprecated components, ensuring the project's compliance with current industry standards. Additionally, I invested substantial effort in researching and comprehending the updated API documentation, allowing for seamless integration with the existing codebase. By implementing multiple face detection, I expanded the project's functionality, going beyond the single face detection capability of the original version.
-
-Throughout this project, I have demonstrated my resilience, adaptability, and resourcefulness as a software engineer. By addressing deprecated components, adapting to changing API documentation, and enhancing functionality, I have showcased my ability to overcome challenges and deliver high-quality results. This experience has enriched my skills and positioned me to contribute effectively to future projects requiring problem-solving, research, and meticulous decision-making.
-
+1.Addressed challenges related to deprecated components within the project.
+2.Adapted and updated the codebase to adhere to current API documentation, ensuring industry standards compliance.
+3.Proactively rectified deprecated components, maintaining code quality and reliability.
+4.Extensively researched and understood updated API documentation, enabling seamless integration with existing code.
+5.Enhanced project functionality by implementing multi-face detection, surpassing the original single-face detection feature, showcasing adaptability and problem-solving skills.
 ### Website Deployed
 
 You can find the project website here: [Live Site](https://tushar458.github.io/Smart_Brain/) Try the demo account.
@@ -37,9 +38,9 @@ You can find the project website here: [Live Site](https://tushar458.github.io/S
 ![smart-brain-screenshot](https://github.com/TJRelly/smart-brain/assets/94482664/182176a5-be00-4894-9d8c-01ff0979179b)
 
 ### UI Redesign
-![Sign In](https://github.com/TJRelly/smart-brain/assets/94482664/f2d0adfd-78d3-4808-aa22-981d1b7f5579)
-![App Interface](https://github.com/TJRelly/smart-brain/assets/94482664/55ec8ffd-7a8b-4d99-a308-848da9227708)
-![Register](https://github.com/TJRelly/smart-brain/assets/94482664/86c7c8eb-538c-45d3-8c83-aefd232cefe6)
+![Sign In]
+![App Interface]
+![Register]
 
 ### Website Deployed
 
